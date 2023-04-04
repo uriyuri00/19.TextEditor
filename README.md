@@ -4,7 +4,9 @@
 https://dashboard.heroku.com/apps/enigmatic-springs-32831
 
 ## Description
-i
+make a install the applicaiton that can accsess it offline due to the cache strategy.
+it uesd webpackm service workers, manifest that helps web control.
+The information you input will be stored in both local storage and indexedDB, allowing for easy retrieval at a later time.
 ## Usage
 
 Insomnia to test API's features
