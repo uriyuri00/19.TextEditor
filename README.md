@@ -1,8 +1,7 @@
 # 19.TextEditor
 
 ## Heroku Link
-https://dashboard.heroku.com/apps/enigmatic-springs-32831
-
+(https://enigmatic-springs-32831.herokuapp.com/)
 ## Description
 make a install the applicaiton that can accsess it offline due to the cache strategy.
 it uesd webpackm service workers, manifest that helps web control.
